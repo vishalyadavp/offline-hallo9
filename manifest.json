@@ -1,0 +1,21 @@
+{
+    "name": "Hola9 Real Estate",
+    "short_name": "Hola9",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#3e4e50",
+    "icons": [
+      {
+        "src": "/images/img1.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "/images/i.jpeg",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  
